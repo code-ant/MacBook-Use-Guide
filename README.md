@@ -6,13 +6,13 @@ TouchBar右侧按钮
 
 左上角苹果图标
 
-![image-20220714095654653](/Users/wangpengtai/Desktop/Mac使用教程/pictures/image-20220714095654653.png)
+![image-20220714095654653](pictures/image-20220714095654653.png)
 
 
 
 所有需要的操作都在这里
 
-![image-20220714095834364](/Users/wangpengtai/Desktop/Mac使用教程/pictures/image-20220714095834364.png)
+![image-20220714095834364](pictures/image-20220714095834364.png)
 
 # 安装软件
 
@@ -22,9 +22,9 @@ Mac有四种方式安装软件
 
   点击屏幕下方Docker中的启动台（不同的系统版本这个图标可能不一样，最新系统版本应该是一个九宫格的彩色方块），找到AppStore打开，搜索软件（这里面软件比较少）
 
-  ![image-20220714100434546](/Users/wangpengtai/Desktop/Mac使用教程/pictures/image-20220714100434546.png)
+  ![image-20220714100434546](pictures/image-20220714100434546.png)
 
-  ![image-20220714100559076](/Users/wangpengtai/Desktop/Mac使用教程/pictures/image-20220714100559076.png)
+  ![image-20220714100559076](pictures/image-20220714100559076.png)
 
   
 
@@ -36,7 +36,7 @@ Mac有四种方式安装软件
 
   1. Docker中，废纸篓左侧的图标
 
-     ![image-20220714100941212](/Users/wangpengtai/Desktop/Mac使用教程/pictures/image-20220714100941212.png)
+     ![image-20220714100941212](pictures/image-20220714100941212.png)
 
      
 
@@ -44,25 +44,25 @@ Mac有四种方式安装软件
 
      点击即可展开刚下载的文件列表（展开列表的样式可以在图标上右键选择）
 
-     ![image-20220714101029701](/Users/wangpengtai/Desktop/Mac使用教程/pictures/image-20220714101029701.png)
+     ![image-20220714101029701](pictures/image-20220714101029701.png)
 
      
 
   2. 在访达中查看下载
 
-     ![image-20220714101458009](/Users/wangpengtai/Desktop/Mac使用教程/pictures/image-20220714101458009.png)
+     ![image-20220714101458009](pictures/image-20220714101458009.png)
 
      
 
   dmg安装方法：双击打开下载后的安装包，根据提示，拖动左侧应用图标到右侧图标上面，然后松手即可完成安装，等到安装完成后，在应用列表中可以找到
 
-  ![image-20220714101906360](/Users/wangpengtai/Desktop/Mac使用教程/pictures/image-20220714101906360.png)
+  ![image-20220714101906360](pictures/image-20220714101906360.png)
 
   
 
   pkg安装方法：双击打开安装包，根据提示选择路径，按需输入密码完成安装（跟Windows安装相似）
 
-  ![image-20220714102327506](/Users/wangpengtai/Desktop/Mac使用教程/pictures/image-20220714102327506.png)
+  ![image-20220714102327506](pictures/image-20220714102327506.png)
 
   
 
@@ -72,19 +72,19 @@ Mac有四种方式安装软件
 
   在网站上点击按钮复制安装命令
 
-  ![image-20220714102637902](/Users/wangpengtai/Desktop/Mac使用教程/pictures/image-20220714102637902.png)
+  ![image-20220714102637902](pictures/image-20220714102637902.png)
 
   
 
   从启动台找到“终端”，并 点击打开
 
-  ![image-20220714102736756](/Users/wangpengtai/Desktop/Mac使用教程/pictures/image-20220714102736756.png)
+  ![image-20220714102736756](pictures/image-20220714102736756.png)
 
   
 
   使用鼠标右键粘贴，或者按键`Command+V`粘贴刚才复制的命令，回车执行
 
-  ![image-20220714102927204](/Users/wangpengtai/Desktop/Mac使用教程/pictures/image-20220714102927204.png)
+  ![image-20220714102927204](pictures/image-20220714102927204.png)
 
   
 
@@ -92,7 +92,7 @@ Mac有四种方式安装软件
 
   输入`brew install git`，等待执行完，git就安装好了，其他软件也可以类似安装。
 
-  ![image-20220714103537720](/Users/wangpengtai/Desktop/Mac使用教程/pictures/image-20220714103537720.png)
+  ![image-20220714103537720](pictures/image-20220714103537720.png)
 
   
 
@@ -108,13 +108,13 @@ Mac有四种方式安装软件
 
 1. 在访达中显示隐藏文件，同时按下`Command+Shift+.`显示隐藏文件，再按一下隐藏
 
-   ![image-20220714104849028](/Users/wangpengtai/Desktop/Mac使用教程/pictures/image-20220714104849028.png)
+   ![image-20220714104849028](pictures/image-20220714104849028.png)
 
    
 
 2. 在 终端中显示隐藏文件，输入`ls -a`能够显示出所有的文件，包括隐藏文件
 
-   ![image-20220714104952347](/Users/wangpengtai/Desktop/Mac使用教程/pictures/image-20220714104952347.png)
+   ![image-20220714104952347](pictures/image-20220714104952347.png)
 
    
 
